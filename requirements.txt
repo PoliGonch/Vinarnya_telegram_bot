@@ -1,0 +1,12 @@
+Django==4.0.4
+ipython
+Pillow
+django-extensions
+pyTelegramBotAPI==4.5.1
+python-dotenv~=0.20.0
+lxml==4.8.0
+celery~=5.2.6
+redis==4.3.1
+psycopg2-binary
+bs4==0.0.1
+beautifulsoup4~=4.11.1
